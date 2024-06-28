@@ -1,0 +1,32 @@
+.signup-container {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  
+  form {
+    display: inline-block;
+    text-align: left;
+    margin-bottom: 1rem;
+  }
+  
+  form input {
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  form button {
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    background-color: rgb(73, 186, 230);
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+  }
+  
+  .login-option {
+    margin-top: 1rem;
+  }
+  
